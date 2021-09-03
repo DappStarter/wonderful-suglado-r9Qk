@@ -1,0 +1,11 @@
+{
+    "name": "KDemo",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "folder"
+    }
+}
